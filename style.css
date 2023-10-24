@@ -1,1 +1,17 @@
+body{
+    background: #5041ff;
+}
 
+h1{
+    color: rgb(0, 0, 94);
+    background: #653fa2;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+em strong {
+    color: rgb(49, 2, 83);
+}
